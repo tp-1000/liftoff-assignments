@@ -8,17 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Add Marker](/resources/Atlas_Wireframe/Add Marker.png)
+![Add Marker](/resources/Atlas_Wireframe/Add_Marker.png)
 
 ![Explore](/resources/Atlas_Wireframe/Explore.png)
 
-![Explore 2](/resources/Atlas_Wireframe/Explore tap detail.png)
+![Explore 2](/resources/Atlas_Wireframe/Explore_tap_detail.png)
 
 ![Settings](/resources/Atlas_Wireframe/Settings.png)
 
-![Login](/resources/Atlas_Wireframe/Settings login.png)
+![Login](/resources/Atlas_Wireframe/Settings_login.png)
 
-![Zip code](/resources/Atlas_Wireframe/Settings zip code.png)
+![Zip code](/resources/Atlas_Wireframe/Settings_zip_code.png)
 
 ![Welcome](/resources/Atlas_Wireframe/Welcome.png)
 
