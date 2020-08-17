@@ -25,7 +25,7 @@ View&nbsp;Content|Content can be view when not logged in.
 - Java 
 - Spring Boot
 - Spring Security 
-- MySQL 
+- PostGIS (extension of PostgreSQL) 
 - Hibernate 
 - Thymleaf templates
 - Angular (Possibly)
@@ -33,5 +33,6 @@ View&nbsp;Content|Content can be view when not logged in.
 
 ### What I'll Have to Learn
 I will need to figure out how to create a map with geo pins and connect them to data. I will also have to figure out how to create and assign a GeoTag to content.
+To more effectively handle request for data, PostGIS, an extension of PostgreSQL will be used. I will have to figure out how to onboard it.
 ### Project Tracker
 https://trello.com/b/9jxvpztH/neigborhoods
