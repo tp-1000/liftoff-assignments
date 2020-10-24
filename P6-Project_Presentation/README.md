@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[ATLAS_Presentation](/resources/project_presentation/Tom_Petty_Atlas_Project_Presentation.pdf)
